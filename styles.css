@@ -288,8 +288,8 @@ label:hover {
     background-image: url(https://cdn.dribbble.com/userupload/38795344/file/original-959929a53bfc4b8fe8517c2e2f82bbbb.gif);
     position: fixed;
     z-index: 250;
-    width: 100%;
-    height: 100%;
+    width: 900vw;
+    height: 900vh;
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
